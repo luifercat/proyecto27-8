@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.app.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.app.Persistencia.deps.json
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.app.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.app.Persistencia.dll
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.app.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.app.Persistencia.pdb
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.app.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.app.Dominio.dll
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.app.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.app.Dominio.pdb
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.app.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.app.Persistencia.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.app.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.app.Persistencia.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.app.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.app.Persistencia.AssemblyInfo.cs
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.app.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.app.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.app.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.app.Persistencia.csproj.CopyComplete
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.app.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.app.Persistencia.dll
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.app.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.app.Persistencia.pdb

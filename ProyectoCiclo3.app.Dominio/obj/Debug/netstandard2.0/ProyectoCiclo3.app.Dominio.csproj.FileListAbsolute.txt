@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.deps.json
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.dll
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.pdb
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.AssemblyInfo.cs
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.dll
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.pdb
