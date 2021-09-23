@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using ProyectoCiclo3.app.Persistencia;
+using ProyectoCiclo3.App.Persistencia;
 
-namespace ProyectoCiclo3.app.Persistencia.Migrations
+namespace ProyectoCiclo3.App.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
     partial class AppContextModelSnapshot : ModelSnapshot
@@ -19,7 +19,7 @@ namespace ProyectoCiclo3.app.Persistencia.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.0");
 
-            modelBuilder.Entity("ProyectoCiclo3.app.Dominio.Encomienda", b =>
+            modelBuilder.Entity("ProyectoCiclo3.App.Dominio.Encomienda", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()
@@ -43,7 +43,7 @@ namespace ProyectoCiclo3.app.Persistencia.Migrations
                     b.ToTable("Encomiendas");
                 });
 
-            modelBuilder.Entity("ProyectoCiclo3.app.Dominio.Servicios", b =>
+            modelBuilder.Entity("ProyectoCiclo3.App.Dominio.Servicio", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()
@@ -70,14 +70,14 @@ namespace ProyectoCiclo3.app.Persistencia.Migrations
                     b.ToTable("Servicios");
                 });
 
-            modelBuilder.Entity("ProyectoCiclo3.app.Dominio.Usuario", b =>
+            modelBuilder.Entity("ProyectoCiclo3.App.Dominio.Usuario", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<string>("apellido")
+                    b.Property<string>("apellidos")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("direccion")

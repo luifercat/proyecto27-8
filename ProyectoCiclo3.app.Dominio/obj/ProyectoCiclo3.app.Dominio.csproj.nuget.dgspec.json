@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\colegio\\fundamentos de programacion\\proyectos\\ProyectoCiclo3.app\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.app.Dominio.csproj": {}
+    "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\colegio\\fundamentos de programacion\\proyectos\\ProyectoCiclo3.app\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.app.Dominio.csproj": {
+    "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\colegio\\fundamentos de programacion\\proyectos\\ProyectoCiclo3.app\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.app.Dominio.csproj",
-        "projectName": "ProyectoCiclo3.app.Dominio",
-        "projectPath": "C:\\Users\\hp\\Desktop\\colegio\\fundamentos de programacion\\proyectos\\ProyectoCiclo3.app\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.app.Dominio.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\colegio\\fundamentos de programacion\\proyectos\\ProyectoCiclo3.app\\ProyectoCiclo3.App.Dominio\\obj\\",
+        "projectUniqueName": "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectName": "ProyectoCiclo3.App.Dominio",
+        "projectPath": "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\LFDM\\.nuget\\packages\\",
+        "outputPath": "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LFDM\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

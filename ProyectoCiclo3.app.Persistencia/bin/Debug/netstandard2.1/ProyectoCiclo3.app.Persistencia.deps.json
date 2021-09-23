@@ -7,16 +7,16 @@
   "targets": {
     ".NETStandard,Version=v2.1": {},
     ".NETStandard,Version=v2.1/": {
-      "ProyectoCiclo3.app.Persistencia/1.0.0": {
+      "ProyectoCiclo3.App.Persistencia/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.Design": "5.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.0",
-          "ProyectoCiclo3.app.Dominio": "1.0.0"
+          "ProyectoCiclo3.App.Dominio": "1.0.0"
         },
         "runtime": {
-          "ProyectoCiclo3.app.Persistencia.dll": {}
+          "ProyectoCiclo3.App.Persistencia.dll": {}
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -1530,15 +1530,15 @@
           }
         }
       },
-      "ProyectoCiclo3.app.Dominio/1.0.0": {
+      "ProyectoCiclo3.App.Dominio/1.0.0": {
         "runtime": {
-          "ProyectoCiclo3.app.Dominio.dll": {}
+          "ProyectoCiclo3.App.Dominio.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ProyectoCiclo3.app.Persistencia/1.0.0": {
+    "ProyectoCiclo3.App.Persistencia/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -2432,7 +2432,7 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
-    "ProyectoCiclo3.app.Dominio/1.0.0": {
+    "ProyectoCiclo3.App.Dominio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

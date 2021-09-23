@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProyectoCiclo3.app.Persistencia
+namespace ProyectoCiclo3.App.Persistencia
 {
     public class Class1
     {

@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace ProyectoCiclo3.app.Servicios
+namespace ProyectoCiclo3.App.Servicios
 {
     public class Program
     {

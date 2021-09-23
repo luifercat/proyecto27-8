@@ -1521,29 +1521,29 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "ProyectoCiclo3.app.Dominio/1.0.0": {
+      "ProyectoCiclo3.App.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/ProyectoCiclo3.app.Dominio.dll": {}
+          "bin/placeholder/ProyectoCiclo3.App.Dominio.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ProyectoCiclo3.app.Dominio.dll": {}
+          "bin/placeholder/ProyectoCiclo3.App.Dominio.dll": {}
         }
       },
-      "ProyectoCiclo3.app.Persistencia/1.0.0": {
+      "ProyectoCiclo3.App.Persistencia/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
-          "ProyectoCiclo3.app.Dominio": "1.0.0"
+          "ProyectoCiclo3.App.Dominio": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/ProyectoCiclo3.app.Persistencia.dll": {}
+          "bin/placeholder/ProyectoCiclo3.App.Persistencia.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ProyectoCiclo3.app.Persistencia.dll": {}
+          "bin/placeholder/ProyectoCiclo3.App.Persistencia.dll": {}
         }
       }
     }
@@ -5814,15 +5814,15 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "ProyectoCiclo3.app.Dominio/1.0.0": {
+    "ProyectoCiclo3.App.Dominio/1.0.0": {
       "type": "project",
-      "path": "../ProyectoCiclo3.App.Dominio/ProyectoCiclo3.app.Dominio.csproj",
-      "msbuildProject": "../ProyectoCiclo3.App.Dominio/ProyectoCiclo3.app.Dominio.csproj"
+      "path": "../ProyectoCiclo3.App.Dominio/ProyectoCiclo3.App.Dominio.csproj",
+      "msbuildProject": "../ProyectoCiclo3.App.Dominio/ProyectoCiclo3.App.Dominio.csproj"
     },
-    "ProyectoCiclo3.app.Persistencia/1.0.0": {
+    "ProyectoCiclo3.App.Persistencia/1.0.0": {
       "type": "project",
-      "path": "../ProyectoCiclo3.App.Persistencia/ProyectoCiclo3.app.Persistencia.csproj",
-      "msbuildProject": "../ProyectoCiclo3.App.Persistencia/ProyectoCiclo3.app.Persistencia.csproj"
+      "path": "../ProyectoCiclo3.App.Persistencia/ProyectoCiclo3.App.Persistencia.csproj",
+      "msbuildProject": "../ProyectoCiclo3.App.Persistencia/ProyectoCiclo3.App.Persistencia.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5831,23 +5831,23 @@
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.0",
-      "ProyectoCiclo3.app.Persistencia >= 1.0.0"
+      "ProyectoCiclo3.App.Persistencia >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\LFDM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\colegio\\fundamentos de programacion\\proyectos\\ProyectoCiclo3.app\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+      "projectUniqueName": "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
       "projectName": "ProyectoCiclo3.App.Consola",
-      "projectPath": "C:\\Users\\hp\\Desktop\\colegio\\fundamentos de programacion\\proyectos\\ProyectoCiclo3.app\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\colegio\\fundamentos de programacion\\proyectos\\ProyectoCiclo3.app\\ProyectoCiclo3.App.Consola\\obj\\",
+      "projectPath": "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\LFDM\\.nuget\\packages\\",
+      "outputPath": "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\LFDM\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5858,8 +5858,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\hp\\Desktop\\colegio\\fundamentos de programacion\\proyectos\\ProyectoCiclo3.app\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.app.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\hp\\Desktop\\colegio\\fundamentos de programacion\\proyectos\\ProyectoCiclo3.app\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.app.Persistencia.csproj"
+            "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+              "projectPath": "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
             }
           }
         }

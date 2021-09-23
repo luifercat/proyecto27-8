@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProyectoCiclo3.app.Dominio
+namespace ProyectoCiclo3.App.Dominio
 {
     public class Class1
     {

@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:41412",
-      "sslPort": 44316
+      "applicationUrl": "http://localhost:53108",
+      "sslPort": 44369
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "ProyectoCiclo3.app.Servicios": {
+    "ProyectoCiclo3.App.Servicios": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",

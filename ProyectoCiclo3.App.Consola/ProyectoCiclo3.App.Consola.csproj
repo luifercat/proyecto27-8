@@ -19,8 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProyectoCiclo3.App.Persistencia\ProyectoCiclo3.app.Persistencia.csproj" />
-
+    <ProjectReference Include="..\ProyectoCiclo3.App.Persistencia\ProyectoCiclo3.App.Persistencia.csproj" />
   </ItemGroup>
 
 </Project>

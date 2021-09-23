@@ -1,9 +1,18 @@
-C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.deps.json
-C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.dll
-C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.pdb
-C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.csprojAssemblyReference.cache
-C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.AssemblyInfoInputs.cache
-C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.AssemblyInfo.cs
-C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.csproj.CoreCompileInputs.cache
-C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.dll
-C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.app.Dominio.pdb
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.deps.json
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.pdb
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.csprojAssemblyReference.cache
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.AssemblyInfo.cs
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.dll
+C:\Users\mario\Desktop\Misiontic\Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.pdb
+C:\OneDrive\proyectos\ciclo3\Proyciclo3.App\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.deps.json
+C:\OneDrive\proyectos\ciclo3\Proyciclo3.App\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.dll
+C:\OneDrive\proyectos\ciclo3\Proyciclo3.App\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.pdb
+C:\OneDrive\proyectos\ciclo3\Proyciclo3.App\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.csprojAssemblyReference.cache
+C:\OneDrive\proyectos\ciclo3\Proyciclo3.App\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.AssemblyInfoInputs.cache
+C:\OneDrive\proyectos\ciclo3\Proyciclo3.App\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.AssemblyInfo.cs
+C:\OneDrive\proyectos\ciclo3\Proyciclo3.App\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.csproj.CoreCompileInputs.cache
+C:\OneDrive\proyectos\ciclo3\Proyciclo3.App\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.dll
+C:\OneDrive\proyectos\ciclo3\Proyciclo3.App\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.pdb

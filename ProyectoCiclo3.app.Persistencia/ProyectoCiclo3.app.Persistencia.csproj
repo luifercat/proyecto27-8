@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProyectoCiclo3.App.Dominio\ProyectoCiclo3.app.Dominio.csproj" />
+    <ProjectReference Include="..\ProyectoCiclo3.App.Dominio\ProyectoCiclo3.App.Dominio.csproj" />
   </ItemGroup>
 
 </Project>

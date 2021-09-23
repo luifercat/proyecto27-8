@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace ProyectoCiclo3.app.Servicios.Controllers
+namespace ProyectoCiclo3.App.Servicios.Controllers
 {
     [ApiController]
     [Route("[controller]")]
