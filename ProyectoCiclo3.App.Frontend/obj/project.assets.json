@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+      "projectUniqueName": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
       "projectName": "ProyectoCiclo3.App.Frontend",
-      "projectPath": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+      "projectPath": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
       "packagesPath": "C:\\Users\\LFDM\\.nuget\\packages\\",
-      "outputPath": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\obj\\",
+      "outputPath": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LFDM\\AppData\\Roaming\\NuGet\\NuGet.Config"
