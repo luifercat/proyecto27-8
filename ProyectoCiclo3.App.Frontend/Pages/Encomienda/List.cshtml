@@ -1,34 +1,32 @@
 @page
+@model ProyectoCiclo3.App.Frontend.Pages.ListEncomiendaModel
 @{
 }
  
-<table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Enc Mark</td>
-      <td>Otto</td>
-      <td>Twitter</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>Facebook</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Larry the Bird</td>
-      <td>Arias</td>
-      <td>Instagram</td>
-    </tr>
-  </tbody>
+<h1>LISTADO DE ENCOMIENDAS</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">DESCRIPCION</th>
+            <th scope="col">PESO</th>
+            <th scope="col">TIPO</th>
+            <th scope="col">PRESENTACION</th>
+        </tr>
+    </thead>
+    @foreach (var encomienda in Model.Encomienda)
+    {
+        <tr>
+            <td>@encomienda.id</td>
+            <td>@encomienda.descripcion</td>
+            <td>@encomienda.peso</td>
+            <td>@encomienda.tipo</td>
+            <td>@encomienda.presentacion</td>
+            <td>
+              <a class="btn btn-info" asp-page="./Details" asp-route-encomiendaId="@encomienda.id"><i class="fas fa-adjust"></i>Ver</a>
+              <a class="btn btn-info" asp-page="./Edit" asp-route-encomiendaId="@encomienda.id">Editar</a>
+              <a class="btn btn-danger" href="">Eliminar</a>
+            </td>
+        </tr>
+    }
 </table>
