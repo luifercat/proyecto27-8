@@ -1,16 +1,24 @@
 @page
+@model ProyectoCiclo3.App.Frontend.Pages.FormUsuarioModel
 @{
 }
  
 <div class="text-center">
-    <form action="">
+    <form method="post">
+        @* <label for="id" class="form-label">Id:</label>
+        <input type="number" class="form-control" id="id" placeholder="Id" asp-for="Usuario.id"> *@
         <label for="nombre" class="form-label">Nombre:</label>
-        <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre">
-        <label for="edad" class="form-label">Edad:</label>
-        <input type="number" class="form-control" id="edad" name="edad" placeholder="Edad">
-        <label for="email" class="form-label">Email:</label>
-        <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+        <input type="text" class="form-control" id="nombre" placeholder="Nombre" asp-for="Usuario.nombre" required>
+        <label for="apellidos" class="form-label">Apellidos:</label>
+        <input type="text" class="form-control" id="apellidos" placeholder="Apellidos" asp-for="Usuario.apellidos" required>
+        <label for="direccion" class="form-label">Dirección:</label>
+        <input type="text" class="form-control" id="direccion" placeholder="Direccion" asp-for="Usuario.direccion" required>
+        <label for="telefono" class="form-label">Telefono:</label>
+        <input type="number" class="form-control" id="telefono" placeholder="Telefono" asp-for="Usuario.telefono" required>
+        @* <label for="ciudad" class="form-label">Ciudad:</label>
+        <input type="text" class="form-control" id="ciudad" placeholder="Ciudad"> *@
         <hr>
         <button type="submit" class="btn btn-success">Enviar</button>
     </form>
 </div>
+

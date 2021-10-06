@@ -1521,14 +1521,14 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "ProyectoCiclo3.App.Dominio/1.0.0": {
+      "ProyectoCiclo3.app.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/ProyectoCiclo3.App.Dominio.dll": {}
+          "bin/placeholder/ProyectoCiclo3.app.Dominio.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ProyectoCiclo3.App.Dominio.dll": {}
+          "bin/placeholder/ProyectoCiclo3.app.Dominio.dll": {}
         }
       },
       "ProyectoCiclo3.App.Persistencia/1.0.0": {
@@ -1537,7 +1537,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
-          "ProyectoCiclo3.App.Dominio": "1.0.0"
+          "ProyectoCiclo3.app.Dominio": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ProyectoCiclo3.App.Persistencia.dll": {}
@@ -5814,10 +5814,10 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "ProyectoCiclo3.App.Dominio/1.0.0": {
+    "ProyectoCiclo3.app.Dominio/1.0.0": {
       "type": "project",
-      "path": "../ProyectoCiclo3.App.Dominio/ProyectoCiclo3.App.Dominio.csproj",
-      "msbuildProject": "../ProyectoCiclo3.App.Dominio/ProyectoCiclo3.App.Dominio.csproj"
+      "path": "../ProyectoCiclo3.App.Dominio/ProyectoCiclo3.app.Dominio.csproj",
+      "msbuildProject": "../ProyectoCiclo3.App.Dominio/ProyectoCiclo3.app.Dominio.csproj"
     },
     "ProyectoCiclo3.App.Persistencia/1.0.0": {
       "type": "project",
@@ -5840,11 +5840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+      "projectUniqueName": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
       "projectName": "ProyectoCiclo3.App.Consola",
-      "projectPath": "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+      "projectPath": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
       "packagesPath": "C:\\Users\\LFDM\\.nuget\\packages\\",
-      "outputPath": "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Consola\\obj\\",
+      "outputPath": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LFDM\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5858,8 +5858,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
-              "projectPath": "C:\\OneDrive\\proyectos\\ciclo3\\Proyciclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
+            "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+              "projectPath": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
             }
           }
         }

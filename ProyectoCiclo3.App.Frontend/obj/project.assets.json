@@ -1485,7 +1485,7 @@
       },
       "ProyectoCiclo3.App.Dominio/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETStandard,Version=v2.1",
         "compile": {
           "bin/placeholder/ProyectoCiclo3.App.Dominio.dll": {}
         },
@@ -1493,7 +1493,7 @@
           "bin/placeholder/ProyectoCiclo3.App.Dominio.dll": {}
         }
       },
-      "ProyectoCiclo3.app.Persistencia/1.0.0": {
+      "ProyectoCiclo3.App.Persistencia/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
@@ -1502,10 +1502,10 @@
           "ProyectoCiclo3.App.Dominio": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/ProyectoCiclo3.app.Persistencia.dll": {}
+          "bin/placeholder/ProyectoCiclo3.App.Persistencia.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ProyectoCiclo3.app.Persistencia.dll": {}
+          "bin/placeholder/ProyectoCiclo3.App.Persistencia.dll": {}
         }
       }
     }
@@ -5725,15 +5725,15 @@
       "path": "../ProyectoCiclo3.App.Dominio/ProyectoCiclo3.App.Dominio.csproj",
       "msbuildProject": "../ProyectoCiclo3.App.Dominio/ProyectoCiclo3.App.Dominio.csproj"
     },
-    "ProyectoCiclo3.app.Persistencia/1.0.0": {
+    "ProyectoCiclo3.App.Persistencia/1.0.0": {
       "type": "project",
-      "path": "../ProyectoCiclo3.App.Persistencia/ProyectoCiclo3.app.Persistencia.csproj",
-      "msbuildProject": "../ProyectoCiclo3.App.Persistencia/ProyectoCiclo3.app.Persistencia.csproj"
+      "path": "../ProyectoCiclo3.App.Persistencia/ProyectoCiclo3.App.Persistencia.csproj",
+      "msbuildProject": "../ProyectoCiclo3.App.Persistencia/ProyectoCiclo3.App.Persistencia.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "ProyectoCiclo3.app.Persistencia >= 1.0.0"
+      "ProyectoCiclo3.App.Persistencia >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5760,8 +5760,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.app.Persistencia.csproj": {
-              "projectPath": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.app.Persistencia.csproj"
+            "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+              "projectPath": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
             }
           }
         }

@@ -17,8 +17,10 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
+  <ItemGroup> 
     <ProjectReference Include="..\ProyectoCiclo3.App.Dominio\ProyectoCiclo3.App.Dominio.csproj" />
   </ItemGroup>
 
 </Project>
+
+
