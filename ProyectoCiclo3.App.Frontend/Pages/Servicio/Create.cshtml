@@ -3,14 +3,25 @@
 }
  
 <div class="text-center">
-    <form action="">
-        <label for="nombre" class="form-label">Nombre:</label>
-        <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre">
-        <label for="edad" class="form-label">Edad:</label>
-        <input type="number" class="form-control" id="edad" name="edad" placeholder="Edad">
-        <label for="email" class="form-label">Email:</label>
-        <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+    <form method="POST">
+        <select asp-for="Servicio.origen" class="form-control">
+        <option value="">-</option>
+        @foreach (var usuario in Model.Usuarios)
+        {
+            <option value="@usuario.id">@usuario.nombre @usuario.apellidos - @usuario.ciudad</option>
+        }
+        </select>
+
+
+        <label for="Destino" class="form-label">Destino:</label>
+        <input type="number" class="form-control" id="destino" name="destino" placeholder="Destino">
+        <label for="Fecha" class="form-label">Fecha:</label>
+        <input type="Date" class="form-control" id="fecha" name="fecha" placeholder="Fecha">
+        <label for="Hora" class="form-label">Hora:</label>
+        <input type="text" class="form-control" id="hora" name="hora" placeholder="Hora">
+        <label for="Paquete" class="form-label">Paquete:</label>
+        <input type="text" class="form-control" id="paquete" name="paquete" placeholder="Paquete">
         <hr>
-        <button type="submit" class="btn btn-success">Enviar</button>
+        <button type="submit" class="btn btn-success">Registrar</button>
     </form>
 </div>
