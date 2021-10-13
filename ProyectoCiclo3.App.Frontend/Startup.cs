@@ -29,6 +29,7 @@ namespace ProyectoCiclo3.App.Frontend
             // se agrega por cada entidad
             services.AddSingleton<RepositorioUsuario, RepositorioUsuario>();
             services.AddSingleton<RepositorioEncomienda, RepositorioEncomienda>();
+            services.AddSingleton<RepositorioServicio, RepositorioServicio>();
             services.AddControllersWithViews();     // agregado parqa autenticar
         }
 
