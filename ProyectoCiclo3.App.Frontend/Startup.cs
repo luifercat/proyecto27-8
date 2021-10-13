@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ProyectoCiclo3.App.Persistencia.AppRepositorios;
+using Microsoft.AspNetCore.Authentication;     // agregado parqa autenticar
 
 namespace ProyectoCiclo3.App.Frontend
 {
@@ -28,6 +29,7 @@ namespace ProyectoCiclo3.App.Frontend
             // se agrega por cada entidad
             services.AddSingleton<RepositorioUsuario, RepositorioUsuario>();
             services.AddSingleton<RepositorioEncomienda, RepositorioEncomienda>();
+            services.AddControllersWithViews();     // agregado parqa autenticar
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,6 +50,7 @@ namespace ProyectoCiclo3.App.Frontend
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseAuthentication();    // agregado parqa autenticar
 
             app.UseAuthorization();
 
@@ -55,6 +58,7 @@ namespace ProyectoCiclo3.App.Frontend
             {
                 endpoints.MapRazorPages();
             });
+            app.UseStaticFiles();   // agregado parqa autenticar
         }
     }
 }
