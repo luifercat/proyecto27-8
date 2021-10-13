@@ -8,19 +8,19 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\LFDM\\.nuget\\packages\\": {}
+    "C:\\Users\\migue\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\migue\\Documents\\Ciclo_3_MINTIC\\CICLO_3_PROYECTO\\proyecto27-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
       "projectName": "ProyectoCiclo3.App.Dominio",
-      "projectPath": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\LFDM\\.nuget\\packages\\",
-      "outputPath": "C:\\OneDrive\\proyectos\\ciclo3\\ProyectoEquipo\\proyecto27-8\\ProyectoCiclo3.App.Dominio\\obj\\",
+      "projectPath": "C:\\Users\\migue\\Documents\\Ciclo_3_MINTIC\\CICLO_3_PROYECTO\\proyecto27-8\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\migue\\Documents\\Ciclo_3_MINTIC\\CICLO_3_PROYECTO\\proyecto27-8\\ProyectoCiclo3.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LFDM\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
       }
     }
   }
