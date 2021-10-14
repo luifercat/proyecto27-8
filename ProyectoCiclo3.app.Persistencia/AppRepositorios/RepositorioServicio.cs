@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using ProyectoCiclo3.App.Dominio;
 using System.Linq;
 using System;
+using Microsoft.EntityFrameworkCore;
  
 namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
 {
@@ -14,9 +15,16 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
  
 
         // se hace referencia a dbset de la BD, se trae todas las encomiendas de la BD
+        // public IEnumerable<Servicio> GetAll()
+        // {
+        //    return _appContext.Servicios;    //hace referencia al dbset de appcontext 
+        // }
+
         public IEnumerable<Servicio> GetAll()
         {
-           return _appContext.Servicios;    //hace referencia al dbset de appcontext 
+           return _appContext.Servicios.Include(u => u.origen)
+                       .Include(u => u.destino).
+                       Include(e => e.encomienda);
         }
 
 
@@ -25,8 +33,14 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
         }
 
         //siguente metodo agrega encomienda y la devuelve
-        public Servicio Create(Servicio newServicio)
+        public Servicio Create(int origen, int destino, string fecha, string hora, int encomienda)
         {
+            var newServicio = new Servicio();
+            newServicio.destino = _appContext.Usuarios.Find(destino);
+            newServicio.origen = _appContext.Usuarios.Find(origen);  
+            newServicio.encomienda = _appContext.Encomiendas.Find(encomienda);         
+            newServicio.fecha = DateTime.Parse(fecha);
+            newServicio.hora = hora;
             var addServicio = _appContext.Servicios.Add(newServicio);
             _appContext.SaveChanges();
             return addServicio.Entity;

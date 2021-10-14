@@ -35,5 +35,18 @@ namespace ProyectoCiclo3.App.Frontend.Pages
             Usuarios=repositorioUsuario.GetAll();
             Encomiendas=repositorioEncomienda.GetAll();
         }
+        public IActionResult OnPost(int origen, int destino, string fecha, string hora, int encomienda)
+
+              {
+                if(!ModelState.IsValid)
+            {
+                return Page();
+            }
+
+            repositorioServicio.Create(origen, destino, fecha, hora, encomienda); 
+                    
+            return RedirectToPage("./List");
+            }
+
     }
 }
