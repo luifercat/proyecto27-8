@@ -363,3 +363,8 @@ C:\Users\migue\Documents\Ciclo_3_MINTIC\CICLO_3_PROYECTO\proyecto27-8\ProyectoCi
 C:\Users\migue\Documents\Ciclo_3_MINTIC\CICLO_3_PROYECTO\proyecto27-8\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.pdb
 C:\Users\migue\Documents\Ciclo_3_MINTIC\CICLO_3_PROYECTO\proyecto27-8\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.genruntimeconfig.cache
 >>>>>>> dfe602f4bb1f666edf8475e513421c9ccb9d1125
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\publish\web.config
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\publish\ProyectoCiclo3.App.Frontend.deps.json
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\publish\ProyectoCiclo3.App.Frontend.runtimeconfig.json

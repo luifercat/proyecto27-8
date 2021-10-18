@@ -1,0 +1,12 @@
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Persistencia\bin\Release\netstandard2.1\ProyectoCiclo3.App.Persistencia.deps.json
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Persistencia\bin\Release\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Persistencia\bin\Release\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Persistencia\bin\Release\netstandard2.1\ProyectoCiclo3.App.Dominio.dll
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Persistencia\bin\Release\netstandard2.1\ProyectoCiclo3.App.Dominio.pdb
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Persistencia\obj\Release\netstandard2.1\ProyectoCiclo3.App.Persistencia.csprojAssemblyReference.cache
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Persistencia\obj\Release\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Persistencia\obj\Release\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfo.cs
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Persistencia\obj\Release\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Persistencia\obj\Release\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Persistencia\obj\Release\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+C:\OneDrive\proyectos\ciclo3\ProyectoEquipo\proyecto27-8\ProyectoCiclo3.App.Persistencia\obj\Release\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb

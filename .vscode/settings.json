@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8cc3004a-304a-4533-a5b0-66555187ff7c/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/ProyectoCiclo3Equipo278",
+    "appService.deploySubpath": "ProyectoCiclo3.App.Frontend\\publish"
+}
